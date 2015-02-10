@@ -1,15 +1,6 @@
 @charset "utf-8";
 h1 {
-	font-family: MrsEaves, georgia, serif;
-	font-weight: normal;
-	font-style: italic;
-	font-size: 36px;
-	lime-height: 1.5;
-	text-transform: uppercase;
-	letter-spacing: .1em;
-	color: black;
-	margin-top: 50px;
-	margin-left: 50px;
-	margin-bottom: 50px;
-	margin-right: 50px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
+body {
+	text-align: center;
