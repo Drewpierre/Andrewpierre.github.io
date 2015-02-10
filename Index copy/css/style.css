@@ -6,6 +6,10 @@ h1 {
 	font-size: 36px;
 	lime-height: 1.5;
 	text-transform: uppercase;
-	letter-spacing:.1em;
-	color: black
+	letter-spacing: .1em;
+	color: black;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
 }
